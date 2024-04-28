@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**liliabennyalapatt/liliabennyalapatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lilia Benny, a Computer Science (Big data) student at UOWD, seeking to learn and grow through project-based learning. 
 
-Here are some ideas to get you started:
+My LinkedIn with updated information is always in my profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on ...
+
+IBM's SkillsBuild course on Data Analytics fundamentals. I'm in the 2024 4-week cohort!
+Personal projects, stay tuned!
+Coursera courses and projects.
+
+### 🌱 I’m currently learning ...
+
+- C++ programming
+- Web technology (HTML, CSS, JS)
+
+Alongside this, I'm doing the IBM Coursera courses on back-end and front-end development. 
+I am also doing the previously mentioned IBM instructor-led course.
+
+### 👯 I’m looking to collaborate on ...
+
+Projects where I can contribute and make my data science skills useful!
+
+### 🤔 I’m looking for help with ...
+
+Web developing, System programming, app development.
+
+### 💬 Ask me about ...
+
+The science of learning! It's a huge interest, and so is Computer Science (especially the specifics of abstraction and bits)
+
+### 📫 How to reach me: ...
+
+My LinkedIn on my profile, my email (also on my profile)
